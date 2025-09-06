@@ -5,7 +5,6 @@ import org.springframework.stereotype.Service;
 
 
 @Service
-@Primary
 public class EnglishSpellChecker implements SpellChecker {
 
 	@Override
